@@ -13,6 +13,9 @@ gem 'sqlite3-ruby', '1.2.5', :require => 'sqlite3'
 # Deploy with Capistrano
 # gem 'capistrano'
 
+# Use Gem Taps
+gem 'taps'
+
 # To use debugger
 # gem 'ruby-debug'
 
